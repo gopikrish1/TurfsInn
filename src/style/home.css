@@ -7,7 +7,7 @@
 }
 #homenav{
     position:absolute;
-    top: 1em;
+    top: 0em;
     left: 5em;
     display: flex;
     justify-content: space-between;
@@ -16,7 +16,7 @@
     border: 0px solid white;
 }
 #navLogo img{
-    width: 37%;
+    width: 45%;
 }
 #loginSignupBtn img{
     width: 80%;
@@ -28,7 +28,7 @@
     position: absolute;
     color: white;
     font-size: 70px;
-    top: 2em;
+    top: 3em;
     left: 1em;
     text-align: center;
     font-weight: bold;
